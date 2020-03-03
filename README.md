@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Name - Aditya Jaiswal
+NetId - gx4379
+Project R1 Websystems
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+* Ruby version -  ruby 2.7.0p0 
 
-* Configuration
+* Rails Version -  Rails 6.0.2.1
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
