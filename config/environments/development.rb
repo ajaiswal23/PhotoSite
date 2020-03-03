@@ -14,6 +14,7 @@ Rails.application.configure do
 
 
   config.hosts << /[a-z0-9]+\.c9users\.io/
+  config.hosts << "ec2-3-20-225-113.us-east-2.compute.amazonaws.com"
 
   # Enable/disable caching. By default caching is disabled.
   # Run rails dev:cache to toggle caching.
